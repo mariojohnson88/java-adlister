@@ -6,8 +6,11 @@
     <title>Login Page</title>
 </head>
 <body>
-<%@ include file="/login.jsp" %>
 <%@ include file="/partials/navbar.jsp" %>
+<%@ include file="/login.jsp" %>
+
+<h1>Index Page</h1>
+
 
 <%--    <c:if test="true">--%>
 <%--        <h1>Variable names should be very descriptive</h1>--%>

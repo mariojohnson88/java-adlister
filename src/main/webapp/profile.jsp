@@ -12,6 +12,8 @@
     <title>Profile Page</title>
 </head>
 <body>
+<%@ include file="/partials/navbar.jsp" %>
+
 
 <p><h1>You been directed to the profile page!</h1></p>
 
