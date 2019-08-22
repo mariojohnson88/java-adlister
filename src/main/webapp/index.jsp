@@ -7,7 +7,7 @@
 </head>
 <body>
 <%@ include file="/login.jsp" %>
-
+<%@ include file="/partials/navbar.jsp" %>
 
 <%--    <c:if test="true">--%>
 <%--        <h1>Variable names should be very descriptive</h1>--%>
