@@ -1,3 +1,5 @@
+//This Ad class is a bean, which is an object.
+
 public class Ad {
     private long id;
     private long userId;
